@@ -1,11 +1,14 @@
-import { View, Text } from 'react-native'
+import { View, Text,ScrollView } from 'react-native'
 import React from 'react'
+import UserProfile from './UserProfile'
+import FilterMenu from './FilterMenu'
 
 const Home = () => {
   return (
-    <View>
-      <Text>Home</Text>
-    </View>
+    <ScrollView>
+      <UserProfile />
+      <FilterMenu />
+    </ScrollView>
   )
 }
 
