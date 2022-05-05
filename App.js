@@ -76,7 +76,7 @@ const App = () => {
   return (
     <>
          <NavigationContainer>
-          <Stack.Navigator initialRouteName='Home'>
+          <Stack.Navigator initialRouteName='SplashScreen'>
             <Stack.Screen options={{headerShown: false,statusBarStyle:"dark"}} name="SplashScreen" component={SplashScreen} />
             <Stack.Screen options={{headerShown:false}} name="SignIn" component={SignIn} />
             <Stack.Screen options={{headerShown:false}} name="SignUP" component={SignUp} />

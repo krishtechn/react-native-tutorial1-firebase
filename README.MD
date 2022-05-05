@@ -1,8 +1,17 @@
-
-# React native userProfile app login and signup with firebase 
+# React native Filter online Course app,userProfile app login and signup, beautiful splashscreen with firebase 
 React native tutorial design beatiful login ,signup page with firebase authentication signup, login, userProfile page and 
 filter menu course you can learn different course with this app.
 
+# what we learn in this tutorial
+  Firbase signup = createuserEmailPassword
+  Firbase login = SigninwithEmailPassword
+  Filter button course
+  How to used Google font
+  How to used image.
+  Moving between one screen to another using react native Navigation
+  Loding 
+
+![image](https://user-images.githubusercontent.com/88832201/166865999-c3048ee7-95c6-4d37-a861-29571171683a.png)
 
 # Google font : 
 https://www.npmjs.com/package/@expo-google-fonts/inter
