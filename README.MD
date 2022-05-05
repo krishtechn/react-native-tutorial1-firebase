@@ -7,13 +7,14 @@ filter menu course you can learn different course with this app.
 ![image](https://user-images.githubusercontent.com/88832201/166866541-3e0fe244-af2e-4fdd-ba48-404294882c3c.png)![image](https://user-images.githubusercontent.com/88832201/166866612-09e5f8e5-bc33-42a3-996d-d01de8cf778c.png)![image](https://user-images.githubusercontent.com/88832201/166866655-0328e67c-375a-4e8b-8b18-c65c0a7ed3bf.png)![image](https://user-images.githubusercontent.com/88832201/166865999-c3048ee7-95c6-4d37-a861-29571171683a.png) 
 
 ## what we learn in this tutorial
+  -Read,write data from firbase = real time database<br>
   -Firbase signup = createuserEmailPassword<br>
   -Firbase login = SigninwithEmailPassword<br>
   -Filter button course<br>
   -How to used Google font<br>
   -How to used image.<br>
   -Moving between one screen to another using react native Navigation<br>
-  -Loding <br>
+  -Loading <br>
 
 
 # Google font : 
