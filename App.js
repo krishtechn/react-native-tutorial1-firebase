@@ -22,6 +22,7 @@ import {
   Inter_900Black,
 } from '@expo-google-fonts/inter';
 import BottomTabNavigator from "./Components/BottomTabNavigator";
+import Calculator from "./Components/Calculator";
 
 
 const App = () => {
@@ -92,6 +93,8 @@ const App = () => {
             headerTintColor:"white",
           }} name="Home" component={Home}/>
         */}
+         <Stack.Screen options={{headerShown:false}} name="Calculator" component={Calculator} />
+           
           </Stack.Navigator> 
            </NavigationContainer>
            </>
